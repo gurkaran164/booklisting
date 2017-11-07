@@ -1,0 +1,7 @@
+<resources>
+    <string name="search">Search</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="app_name">Book Listing</string>
+    <string name="internet">No Internet </string>
+    <string name="search1">Enter Search Query</string>
+</resources>
